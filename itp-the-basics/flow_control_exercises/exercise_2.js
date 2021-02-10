@@ -56,7 +56,7 @@ console.log(capsLong("Garrett Anderson"));
 console.log(capsLong("Max"));
 
 
-function numberRange(number) {
+function numberRange(number) { // exercise 8
   if (number < 0) {
     console.log(`${number} is less than 0`);
   } else if (number <= 50) {
